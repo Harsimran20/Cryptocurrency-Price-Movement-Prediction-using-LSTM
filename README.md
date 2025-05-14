@@ -40,7 +40,8 @@ Evaluation
 The model's accuracy is tracked and visualized using training/validation accuracy plots.
 
 # 1. Clone the repo
-git clone https://github.com/yourusername/crypto-price-prediction.git
+git clone this repository
+
 cd crypto-price-prediction
 
 # 2. Install dependencies
